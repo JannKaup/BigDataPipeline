@@ -4,6 +4,14 @@
 ## Overview  
 This project is a group-based assignment where you will design and implement a Big Data processing pipeline using Apache Spark and MongoDB. The goal is to apply the knowledge gained throughout the course to ingest, process, analyze, and store large-scale datasets effectively.  
 
+## Team
+- Janne Kauppila
+- Antti Somero
+- ...  
+
+## Big data set  
+t.b.d  
+
 ## Project Requirements  
 Each team must: 
 
