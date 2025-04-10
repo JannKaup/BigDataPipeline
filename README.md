@@ -16,7 +16,7 @@ t.b.d
 ## Project Instructions
 Set up your environment (Conda, Spark & MongoDB)
 - MongoDB should be running on defaults
-Download the sources and data set from git
+Download the sources and data set from: https://doi.org/10.25832/time_series/2020-10-06
 Extract to a folder
 Csv-file on Sourcedata folder is a dummy file, containing only a path to actual data file location (thanks to Github file size limit)
 Download the data file and add it to the Sourcedata folder
