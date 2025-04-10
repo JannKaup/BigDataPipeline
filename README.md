@@ -12,6 +12,18 @@ This project is a group-based assignment where you will design and implement a B
 ## Big data set  
 t.b.d  
 
+<<<<<<< HEAD
+## Project Instructions
+Set up your environment (Conda, Spark & MongoDB)
+- MongoDB should be running on defaults
+Download the sources and data set from git
+Extract to a folder
+Csv-file on Sourcedata folder is a dummy file, containing only a path to actual data file location (thanks to Github file size limit)
+Download the data file and add it to the Sourcedata folder
+Open the notebook with VSCode
+Start the notebook, lean back and enjoy the ride!
+---
+=======
 ## Project Requirements  
 Each team must: 
 
@@ -94,3 +106,4 @@ Presentation & Report (Clarity, depth, technical explanation)	1.5
 For any questions or clarifications, feel free to reach out during office hours or via the course forum.    
 
 🚀 Good luck with your project!
+>>>>>>> parent of 0850a6c (Final cut)
